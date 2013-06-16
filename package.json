@@ -1,5 +1,5 @@
 {
-  "name": "json2csv",
+  "name": "json2csv-customgapp",
   "preferGlobal": "true",
   "version": "2.1.1",
   "description": "Convert json to csv with column titles",
